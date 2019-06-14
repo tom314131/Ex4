@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#03A9F4</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="connectBtnColor">#15791C</color>
+    <color name="connect_TXT_color">#FFFFFF</color>
+    <color name="plain_text_BG">#FFFFFF</color>
+</resources>
